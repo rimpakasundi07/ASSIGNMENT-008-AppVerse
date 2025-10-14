@@ -37,7 +37,9 @@ const Navbar = () => {
             </li>
           </ul>
         </div>
-        <a className="font-bold text-[#9e16cb] lg:text-3xl text-xl">AppVerse</a>
+        <a className="font-bold ml-6 text-[#9e16cb] lg:text-3xl text-xl">
+          AppVerse
+        </a>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
@@ -60,7 +62,7 @@ const Navbar = () => {
         </ul>
       </div>
       <div className="navbar-end">
-        <a className="btn text-white font-semibold bg-gradient-to-bl from-[#9400D0] to-[#4B0082]">
+        <a className="btn mr-6 text-white font-semibold bg-gradient-to-bl from-[#9400D0] to-[#4B0082]">
           Contribute
         </a>
       </div>
