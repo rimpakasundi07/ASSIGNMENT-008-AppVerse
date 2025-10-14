@@ -1,6 +1,13 @@
 import React from "react";
 
 const Navbar = () => {
+  const links = (
+    <>
+      <li>Home</li>
+      <li>Apps</li>
+      <li>Installation</li>
+    </>
+  );
   return (
     <div className="navbar bg-base-100 shadow-sm">
       <div className="navbar-start">
@@ -25,16 +32,7 @@ const Navbar = () => {
             tabIndex="-1"
             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
           >
-            <li>
-              <a>Home</a>
-            </li>
-            <li>
-              <a>Apps</a>
-            </li>
-
-            <li>
-              <a>Installation</a>
-            </li>
+            {links}
           </ul>
         </div>
         <a className="font-bold lg:ml-6 text-[#9e16cb] lg:text-3xl text-lg">
