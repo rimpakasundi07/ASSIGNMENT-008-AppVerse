@@ -37,7 +37,7 @@ const Navbar = () => {
             </li>
           </ul>
         </div>
-        <a className="font-bold ml-6 text-[#9e16cb] lg:text-3xl text-xl">
+        <a className="font-bold lg:ml-6 text-[#9e16cb] lg:text-3xl text-lg">
           AppVerse
         </a>
       </div>
