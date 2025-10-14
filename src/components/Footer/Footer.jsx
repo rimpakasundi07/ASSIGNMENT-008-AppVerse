@@ -59,10 +59,6 @@ const Footer = () => {
           </a>
         </div>
       </nav>
-      <hr></hr>
-      <aside>
-        <p>Copyright © 2025- All right reserved by Rimpa Kasundi.</p>
-      </aside>
     </footer>
   );
 };
