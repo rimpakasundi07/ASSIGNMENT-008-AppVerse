@@ -1,11 +1,19 @@
 import React from "react";
+import { Link } from "react-router";
 
 const Navbar = () => {
   const links = (
     <>
-      <li>Home</li>
-      <li>Apps</li>
-      <li>Installation</li>
+      <Link to="/">
+        <li className="text-lg font-bold  px-2 py-1 rounded hover:bg-white hover:border hover:border-violet-500  hover:text-violet-500">
+          Home
+        </li>
+      </Link>
+      <Link to="/allApps">
+        <li className="text-lg font-bold px-2 py-1 rounded hover:bg-white hover:border hover:border-violet-500  hover:text-violet-500">
+          Apps
+        </li>
+      </Link>
     </>
   );
   return (
@@ -40,24 +48,7 @@ const Navbar = () => {
         </a>
       </div>
       <div className="navbar-center hidden lg:flex">
-        <ul className="menu menu-horizontal px-1">
-          <li>
-            <a className="text-lg font-bold hover:bg-white hover:border hover:border-violet-500  hover:text-violet-500">
-              Home
-            </a>
-          </li>
-          <li>
-            <a className="text-lg font-bold hover:bg-white hover:border hover:border-violet-500  hover:text-violet-500">
-              Apps
-            </a>
-          </li>
-
-          <li>
-            <a className="text-lg font-bold hover:bg-white hover:border hover:border-violet-500  hover:text-violet-500">
-              Installation
-            </a>
-          </li>
-        </ul>
+        <ul className="menu menu-horizontal space-x-3">{links}</ul>
       </div>
       <div className="navbar-end">
         <a className="btn mr-6 text-white font-semibold bg-gradient-to-bl from-[#9400D0] to-[#4B0082]">
