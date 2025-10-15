@@ -14,6 +14,11 @@ const Navbar = () => {
           Apps
         </li>
       </Link>
+      <Link>
+        <li className="text-lg font-bold px-2 py-1 rounded hover:bg-white hover:border hover:border-violet-500  hover:text-violet-500">
+          Installation
+        </li>
+      </Link>
     </>
   );
   return (

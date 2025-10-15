@@ -1,5 +1,5 @@
 import { Download, Star } from "lucide-react";
-import React, { use } from "react";
+import React from "react";
 
 const App = ({ singleApp }) => {
   //   const data = use(appPromise);
