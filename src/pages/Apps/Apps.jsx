@@ -1,5 +1,6 @@
 import React, { Suspense, useEffect, useState } from "react";
 import App from "../App/App";
+import { Link } from "react-router";
 
 const Apps = () => {
   const [singleApps, setSingleApps] = useState();
@@ -28,9 +29,11 @@ const Apps = () => {
         ))}
       </div>
       <div className="flex justify-center my-3">
-        <button className="px-2  py-1 rounded-lg cursor-pointer hover:border-2 hover:border-sky-400 hover:bg-white hover:text-sky-500 font-bold  bg-sky-400 text-white">
-          Show All
-        </button>
+        <Link to="/allApps">
+          <button className="px-2  py-1 rounded-lg cursor-pointer hover:border-2 hover:border-sky-400 hover:bg-white hover:text-sky-500 font-bold  bg-sky-400 text-white">
+            Show All
+          </button>
+        </Link>
       </div>
     </div>
   );
