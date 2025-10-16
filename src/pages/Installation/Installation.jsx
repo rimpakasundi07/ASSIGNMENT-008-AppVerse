@@ -3,7 +3,7 @@ import React from "react";
 const Installation = () => {
   return (
     <div>
-      <p>I am installation data</p>
+      <h1>Installation page</h1>
     </div>
   );
 };

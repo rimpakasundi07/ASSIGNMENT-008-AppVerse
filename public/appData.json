@@ -4,17 +4,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png",
     "title": "WhatsApp Messenger",
     "companyName": "Meta Platforms, Inc.",
-    "description": "A simple, secure, and reliable messaging and calling app available worldwide.",
+    "description": "WhatsApp Messenger is a globally acclaimed free messaging and calling application, designed for simple, secure, and reliable communication. It utilizes end-to-end encryption to ensure that all your messages, calls, photos, and videos are private and can only be accessed by you and the recipient. Users can effortlessly send text and voice messages, share media, and engage in group chats. Its high-quality voice and video calling features make it an essential tool for staying connected with friends and family across the globe. Additionally, the Status feature allows users to share temporary updates with their contacts. With support for WhatsApp Web and desktop clients, you can seamlessly sync your conversations across all your devices. Beyond personal use, WhatsApp has become a powerful platform for businesses to connect with their customers, making it a versatile communication tool for modern life.",
     "size": 78,
-    "reviews": 175432109,
+    "reviews": "175.4M",
     "ratingAvg": 4.2,
-    "downloads": 5000000000,
+    "downloads": "5B+",
     "ratings": [
-      { "name": "1 star", "count": 22109876 },
-      { "name": "2 star", "count": 8765432 },
-      { "name": "3 star", "count": 15432109 },
-      { "name": "4 star", "count": 29876543 },
-      { "name": "5 star", "count": 99248149 }
+      { "name": "1 star", "count": "22.1M" },
+      { "name": "2 star", "count": "8.8M" },
+      { "name": "3 star", "count": "15.4M" },
+      { "name": "4 star", "count": "29.9M" },
+      { "name": "5 star", "count": "99.2M" }
     ]
   },
   {
@@ -22,17 +22,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png",
     "title": "Instagram",
     "companyName": "Meta Platforms, Inc.",
-    "description": "Share photos, videos, and stories with friends, family, and followers.",
+    "description": "Instagram is a premier social media platform centered around visual storytelling through photos and videos. It empowers users to capture and share life's moments with a global community of friends, family, and followers. The platform offers a diverse range of features, including permanent posts to a curated feed, ephemeral 'Stories' that disappear after 24 hours, and engaging short-form videos called 'Reels'. Users can enhance their content with a vast array of creative tools, such as filters, effects, and music. Beyond content sharing, Instagram facilitates connections through direct messaging, live video streaming, and integrated shopping features. It serves not only as a space for personal expression but also as a vital marketing tool for businesses, brands, and influencers to build communities, engage with audiences, and showcase their products and services in a visually compelling way.",
     "size": 120,
-    "reviews": 145234567,
+    "reviews": "145.2M",
     "ratingAvg": 4.4,
-    "downloads": 1000000000,
+    "downloads": "1B+",
     "ratings": [
-      { "name": "1 star", "count": 15234567 },
-      { "name": "2 star", "count": 6543210 },
-      { "name": "3 star", "count": 12345678 },
-      { "name": "4 star", "count": 31098765 },
-      { "name": "5 star", "count": 80012347 }
+      { "name": "1 star", "count": "15.2M" },
+      { "name": "2 star", "count": "6.5M" },
+      { "name": "3 star", "count": "12.3M" },
+      { "name": "4 star", "count": "31.1M" },
+      { "name": "5 star", "count": "80M" }
     ]
   },
   {
@@ -40,17 +40,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png",
     "title": "Facebook",
     "companyName": "Meta Platforms, Inc.",
-    "description": "Connect with people, share updates, and discover what's new.",
+    "description": "Facebook stands as the world's largest social network, offering a comprehensive platform for people to connect, share, and discover. At its core, it enables users to build a personal profile, share status updates, photos, and videos, and interact with content posted by friends and family through the News Feed. However, its functionality extends far beyond personal updates. Users can join Groups based on shared interests, organize and attend Events, and follow Pages of public figures, businesses, and organizations. The platform also includes integrated features like Marketplace for local commerce, Facebook Watch for original and user-generated video content, and a robust messaging system via Messenger. As a central hub for social interaction, news consumption, and community building, Facebook remains an integral part of the digital lives of billions of people worldwide, connecting them to what matters most.",
     "size": 85,
-    "reviews": 130987654,
+    "reviews": "131M",
     "ratingAvg": 4.1,
-    "downloads": 5000000000,
+    "downloads": "5B+",
     "ratings": [
-      { "name": "1 star", "count": 20987654 },
-      { "name": "2 star", "count": 9876543 },
-      { "name": "3 star", "count": 18765432 },
-      { "name": "4 star", "count": 21358025 },
-      { "name": "5 star", "count": 60000000 }
+      { "name": "1 star", "count": "21M" },
+      { "name": "2 star", "count": "9.9M" },
+      { "name": "3 star", "count": "18.8M" },
+      { "name": "4 star", "count": "21.4M" },
+      { "name": "5 star", "count": "60M" }
     ]
   },
   {
@@ -58,17 +58,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/2560px-TikTok_logo.svg.png",
     "title": "TikTok",
     "companyName": "Bytedance Ltd.",
-    "description": "A destination for short-form mobile videos and trending content.",
+    "description": "TikTok is a cultural phenomenon and a leading destination for short-form mobile videos. The platform is defined by its highly engaging and personalized 'For You' feed, which uses a powerful algorithm to surface a never-ending stream of content tailored to each user's interests. It empowers creators of all levels with easy-to-use video editing tools, an extensive library of sounds and music, and a wide array of filters and AR effects. This accessibility has fostered a global community where users can participate in viral trends, showcase their talents in dance and comedy, share educational content, and express their creativity in countless ways. More than just an entertainment app, TikTok has become a major force in shaping popular culture, launching careers, and providing a platform for brands to connect with audiences in an authentic and dynamic manner.",
     "size": 150,
-    "reviews": 85678901,
+    "reviews": "85.7M",
     "ratingAvg": 4.5,
-    "downloads": 1000000000,
+    "downloads": "1B+",
     "ratings": [
-      { "name": "1 star", "count": 8678901 },
-      { "name": "2 star", "count": 3456789 },
-      { "name": "3 star", "count": 7890123 },
-      { "name": "4 star", "count": 15653188 },
-      { "name": "5 star", "count": 50000000 }
+      { "name": "1 star", "count": "8.7M" },
+      { "name": "2 star", "count": "3.5M" },
+      { "name": "3 star", "count": "7.9M" },
+      { "name": "4 star", "count": "15.7M" },
+      { "name": "5 star", "count": "50M" }
     ]
   },
   {
@@ -76,17 +76,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png",
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
-    "description": "A cloud-based instant messaging app focused on speed and security.",
+    "description": "Telegram is a cloud-based instant messaging application celebrated for its emphasis on speed, security, and powerful features. It offers a seamless and synchronized experience across all devices, thanks to its distributed server infrastructure. A key highlight is its commitment to privacy, offering end-to-end encrypted 'Secret Chats' with self-destruct timers. Unlike many competitors, Telegram allows users to send massive files up to 2 GB in size and supports group chats with up to 200,000 members, making it ideal for large communities. Its 'Channels' feature enables broadcasting messages to an unlimited audience. Furthermore, the platform's open Bot API allows developers to create custom tools and integrations. With its clean interface, robust performance, and a rich set of features designed for both personal and group communication, Telegram has established itself as a leading alternative for users who prioritize privacy and functionality.",
     "size": 60,
-    "reviews": 25432109,
+    "reviews": "25.4M",
     "ratingAvg": 4.3,
-    "downloads": 500000000,
+    "downloads": "500M+",
     "ratings": [
-      { "name": "1 star", "count": 2432109 },
-      { "name": "2 star", "count": 1000000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 5000000 },
-      { "name": "5 star", "count": 15000000 }
+      { "name": "1 star", "count": "2.4M" },
+      { "name": "2 star", "count": "1M" },
+      { "name": "3 star", "count": "2M" },
+      { "name": "4 star", "count": "5M" },
+      { "name": "5 star", "count": "15M" }
     ]
   },
   {
@@ -94,17 +94,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png",
     "title": "Spotify: Music and Podcasts",
     "companyName": "Spotify AB",
-    "description": "Discover, manage and share over 82 million tracks, for free.",
+    "description": "Spotify is a world-leading audio streaming service, offering instant access to a massive library of over 82 million tracks, podcasts, and other audio content. It allows users to discover, manage, and share music and podcasts for free, or upgrade to Spotify Premium for an ad-free experience, offline downloads, and higher audio quality. The platform is renowned for its powerful music discovery engine, which curates personalized playlists like 'Discover Weekly' and 'Daily Mixes' based on individual listening habits. Users can create their own playlists, follow artists, and explore a vast universe of curated playlists for any mood or activity. Beyond music, Spotify has become a major hub for podcasts, hosting a diverse range of shows across all genres. With its user-friendly interface and seamless cross-device compatibility, Spotify provides the ultimate soundtrack for every moment of your life.",
     "size": 95,
-    "reviews": 28987654,
+    "reviews": "29M",
     "ratingAvg": 4.6,
-    "downloads": 500000000,
+    "downloads": "500M+",
     "ratings": [
-      { "name": "1 star", "count": 1987654 },
-      { "name": "2 star", "count": 987654 },
-      { "name": "3 star", "count": 1500000 },
-      { "name": "4 star", "count": 4512346 },
-      { "name": "5 star", "count": 20000000 }
+      { "name": "1 star", "count": "2M" },
+      { "name": "2 star", "count": "987.7K" },
+      { "name": "3 star", "count": "1.5M" },
+      { "name": "4 star", "count": "4.5M" },
+      { "name": "5 star", "count": "20M" }
     ]
   },
   {
@@ -112,17 +112,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2560px-Netflix_2015_logo.svg.png",
     "title": "Netflix",
     "companyName": "Netflix, Inc.",
-    "description": "Watch TV shows and movies recommended just for you.",
+    "description": "Netflix is a dominant global streaming service that provides a vast, on-demand library of TV shows, movies, documentaries, anime, and more. It offers a highly personalized viewing experience, recommending content based on a sophisticated algorithm that analyzes your viewing history and ratings. The platform is famous for its extensive collection of award-winning Netflix Originals, which includes critically acclaimed series and films that are exclusive to the service. Subscribers can watch as much as they want, anytime, anywhere, on nearly any internet-connected screen, without a single commercial. A key feature is the ability to download titles to your mobile device for offline viewing, perfect for commutes or travel. With multiple subscription plans to suit different needs for video quality and simultaneous streams, Netflix has revolutionized how people consume entertainment, offering endless choices and control to viewers worldwide.",
     "size": 70,
-    "reviews": 15789012,
+    "reviews": "15.8M",
     "ratingAvg": 4.4,
-    "downloads": 500000000,
+    "downloads": "500M+",
     "ratings": [
-      { "name": "1 star", "count": 1789012 },
-      { "name": "2 star", "count": 800000 },
-      { "name": "3 star", "count": 1200000 },
-      { "name": "4 star", "count": 3000000 },
-      { "name": "5 star", "count": 9000000 }
+      { "name": "1 star", "count": "1.8M" },
+      { "name": "2 star", "count": "800K" },
+      { "name": "3 star", "count": "1.2M" },
+      { "name": "4 star", "count": "3M" },
+      { "name": "5 star", "count": "9M" }
     ]
   },
   {
@@ -130,17 +130,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/2048px-X_logo_2023.svg.png",
     "title": "X",
     "companyName": "X Corp.",
-    "description": "The global town square for what's happening and what people are talking about.",
+    "description": "X (formerly known as Twitter) is a dynamic, real-time social networking and microblogging service where users post and interact with short messages. It functions as a global town square, providing an open platform for public conversation about what's happening in the world and what people are talking about right now. The platform is a primary source for breaking news, live event commentary, and instant reactions from public figures, journalists, and experts. Users can share their thoughts, news, and media, and engage with others through replies, reposts, and likes. Hashtags play a crucial role in organizing conversations and allowing users to follow trending topics. Its fast-paced nature makes it an indispensable tool for staying informed and participating in global discussions as they unfold, connecting people directly to the pulse of current events and diverse perspectives from around the world.",
     "size": 110,
-    "reviews": 35432109,
+    "reviews": "35.4M",
     "ratingAvg": 3.9,
-    "downloads": 500000000,
+    "downloads": "500M+",
     "ratings": [
-      { "name": "1 star", "count": 6432109 },
-      { "name": "2 star", "count": 3000000 },
-      { "name": "3 star", "count": 5000000 },
-      { "name": "4 star", "count": 8000000 },
-      { "name": "5 star", "count": 13000000 }
+      { "name": "1 star", "count": "6.4M" },
+      { "name": "2 star", "count": "3M" },
+      { "name": "3 star", "count": "5M" },
+      { "name": "4 star", "count": "8M" },
+      { "name": "5 star", "count": "13M" }
     ]
   },
   {
@@ -148,17 +148,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Snapchat_logo.svg/2048px-Snapchat_logo.svg.png",
     "title": "Snapchat",
     "companyName": "Snap Inc.",
-    "description": "Share the moment with friends and family with disappearing photos and videos.",
+    "description": "Snapchat is a popular multimedia messaging app built on the concept of ephemeral communication. It allows users to share photos and videos, known as 'Snaps,' that disappear after being viewed. This focus on temporary sharing encourages more authentic and in-the-moment interactions among friends. The app is renowned for its playful and creative tools, especially its vast collection of augmented reality (AR) Lenses and Filters that transform users' appearances and surroundings. Key features include 'Stories,' which are collections of Snaps that last for 24 hours, and 'Snap Map,' which lets users share their location with friends. The 'Discover' section offers content from top publishers and creators, while 'Spotlight' showcases entertaining Snaps from the community. By prioritizing visual communication and real connections, Snapchat provides a fun, pressure-free way for people to express themselves and share their world with their closest friends.",
     "size": 130,
-    "reviews": 30123456,
+    "reviews": "30.1M",
     "ratingAvg": 4.2,
-    "downloads": 1000000000,
+    "downloads": "1B+",
     "ratings": [
-      { "name": "1 star", "count": 4123456 },
-      { "name": "2 star", "count": 1500000 },
-      { "name": "3 star", "count": 2500000 },
-      { "name": "4 star", "count": 6000000 },
-      { "name": "5 star", "count": 16000000 }
+      { "name": "1 star", "count": "4.1M" },
+      { "name": "2 star", "count": "1.5M" },
+      { "name": "3 star", "count": "2.5M" },
+      { "name": "4 star", "count": "6M" },
+      { "name": "5 star", "count": "16M" }
     ]
   },
   {
@@ -166,17 +166,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png",
     "title": "YouTube",
     "companyName": "Google LLC",
-    "description": "Watch, stream, create, and share videos with a global community.",
+    "description": "YouTube is the world's preeminent video-sharing platform, serving as a vast hub for entertainment, education, and information. It allows billions of users to watch, upload, share, and comment on a diverse range of video content. From music videos and movie trailers to DIY tutorials, educational lectures, vlogs, and live streams, its library is nearly limitless. Users can subscribe to their favorite 'Channels' to stay updated with new content from creators. The platform's powerful recommendation algorithm helps viewers discover new videos tailored to their interests. For creators, YouTube offers a global stage to share their passion and build a community. With features like YouTube Shorts for short-form content and YouTube Premium for an ad-free experience with offline downloads and background playback, it continuously evolves to meet the needs of its massive global audience, solidifying its place as an essential part of modern internet culture.",
     "size": 90,
-    "reviews": 120987654,
+    "reviews": "121M",
     "ratingAvg": 4.3,
-    "downloads": 10000000000,
+    "downloads": "10B+",
     "ratings": [
-      { "name": "1 star", "count": 15987654 },
-      { "name": "2 star", "count": 7000000 },
-      { "name": "3 star", "count": 12000000 },
-      { "name": "4 star", "count": 26000000 },
-      { "name": "5 star", "count": 60000000 }
+      { "name": "1 star", "count": "16M" },
+      { "name": "2 star", "count": "7M" },
+      { "name": "3 star", "count": "12M" },
+      { "name": "4 star", "count": "26M" },
+      { "name": "5 star", "count": "60M" }
     ]
   },
   {
@@ -184,17 +184,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Google_Maps_icon_%282020%29.svg/2048px-Google_Maps_icon_%282020%29.svg.png",
     "title": "Google Maps",
     "companyName": "Google LLC",
-    "description": "Navigate your world faster and easier with real-time GPS and traffic info.",
+    "description": "Google Maps is an indispensable navigation tool that provides detailed geographical information to help users explore and navigate the world. It offers real-time GPS navigation with turn-by-turn directions for driving, walking, cycling, and public transit. A key feature is its live traffic data, which helps users find the fastest route by avoiding congestion and accidents. The platform also provides extensive information about millions of businesses and points of interest, including contact details, operating hours, and user-generated reviews and photos. Features like Street View offer immersive, 360-degree ground-level imagery of locations worldwide. For areas with poor connectivity, users can download maps for offline use. More than just a navigation app, Google Maps is a comprehensive tool for discovering new places, planning trips, and sharing locations with others, making it an essential companion for both daily commutes and travel adventures.",
     "size": 105,
-    "reviews": 18987654,
+    "reviews": "19M",
     "ratingAvg": 4.1,
-    "downloads": 5000000000,
+    "downloads": "5B+",
     "ratings": [
-      { "name": "1 star", "count": 2987654 },
-      { "name": "2 star", "count": 1000000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 4000000 },
-      { "name": "5 star", "count": 9000000 }
+      { "name": "1 star", "count": "3M" },
+      { "name": "2 star", "count": "1M" },
+      { "name": "3 star", "count": "2M" },
+      { "name": "4 star", "count": "4M" },
+      { "name": "5 star", "count": "9M" }
     ]
   },
   {
@@ -202,17 +202,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png",
     "title": "Gmail",
     "companyName": "Google LLC",
-    "description": "Secure, smart, and easy-to-use email that keeps you organized.",
+    "description": "Gmail is a secure, smart, and user-friendly email service provided by Google. It is designed to help you stay organized and efficient by automatically sorting your mail into categories like Primary, Social, and Promotions. Its powerful search functionality makes it easy to find any email you've ever sent or received. Gmail offers robust security features, including industry-leading spam protection that blocks over 99.9% of dangerous emails before they reach your inbox, as well as phishing warnings and two-factor authentication. With a generous 15 GB of free storage shared across Google Drive and Google Photos, users have ample space for their messages and attachments. Seamlessly integrated with other Google services like Google Calendar, Drive, and Meet, Gmail serves as a central hub for both personal and professional communication, providing a reliable and intelligent email experience for over a billion users worldwide.",
     "size": 65,
-    "reviews": 10123456,
+    "reviews": "10.1M",
     "ratingAvg": 4.5,
-    "downloads": 10000000000,
+    "downloads": "10B+",
     "ratings": [
-      { "name": "1 star", "count": 923456 },
-      { "name": "2 star", "count": 400000 },
-      { "name": "3 star", "count": 800000 },
-      { "name": "4 star", "count": 2000000 },
-      { "name": "5 star", "count": 6000000 }
+      { "name": "1 star", "count": "923.5K" },
+      { "name": "2 star", "count": "400K" },
+      { "name": "3 star", "count": "800K" },
+      { "name": "4 star", "count": "2M" },
+      { "name": "5 star", "count": "6M" }
     ]
   },
   {
@@ -220,17 +220,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png",
     "title": "Amazon Shopping",
     "companyName": "Amazon Mobile LLC",
-    "description": "Shop millions of products, manage your orders, and enjoy Prime benefits.",
+    "description": "The Amazon Shopping app provides a convenient and comprehensive mobile retail experience, putting millions of products at your fingertips. Users can effortlessly browse, search, and purchase items across a vast range of categories, from electronics and fashion to home goods and groceries. The app features personalized recommendations based on browsing and purchase history, helping customers discover new products they might love. Users can compare prices, read customer reviews, and track their orders from shipment to delivery. With an Amazon Prime membership, shoppers gain access to exclusive benefits like free and fast shipping, Prime Video streaming, and more. Features such as barcode scanning to check prices in-store, voice shopping with Alexa, and easy-to-manage shopping lists and subscriptions make the Amazon app an indispensable tool for modern shoppers, offering convenience, selection, and value in one powerful platform.",
     "size": 88,
-    "reviews": 9876543,
+    "reviews": "9.9M",
     "ratingAvg": 4.7,
-    "downloads": 500000000,
+    "downloads": "500M+",
     "ratings": [
-      { "name": "1 star", "count": 476543 },
-      { "name": "2 star", "count": 200000 },
-      { "name": "3 star", "count": 400000 },
-      { "name": "4 star", "count": 1800000 },
-      { "name": "5 star", "count": 7000000 }
+      { "name": "1 star", "count": "476.5K" },
+      { "name": "2 star", "count": "200K" },
+      { "name": "3 star", "count": "400K" },
+      { "name": "4 star", "count": "1.8M" },
+      { "name": "5 star", "count": "7M" }
     ]
   },
   {
@@ -238,17 +238,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uber_logo_2018.svg/2560px-Uber_logo_2018.svg.png",
     "title": "Uber - Request a ride",
     "companyName": "Uber Technologies, Inc.",
-    "description": "Get a reliable ride in minutes with the Uber app.",
+    "description": "Uber is a leading ride-hailing app that has transformed urban transportation by connecting riders with drivers in minutes. The app allows users to request a ride with a simple tap, providing a reliable and convenient alternative to traditional taxis. Upon requesting, users can see the estimated fare, the driver's details, and their vehicle's location in real-time on a map. Uber offers a range of ride options to suit different needs and budgets, from a low-cost UberX to a premium Uber Black. The platform prioritizes safety with features like driver background checks, trip sharing with trusted contacts, and an in-app emergency button. Cashless payments are handled automatically through the app, providing a seamless experience. Beyond ride-hailing, Uber has expanded its services to include food delivery with Uber Eats and other logistics solutions, making it a comprehensive platform for moving people and things around cities.",
     "size": 140,
-    "reviews": 11234567,
+    "reviews": "11.2M",
     "ratingAvg": 4.4,
-    "downloads": 500000000,
+    "downloads": "500M+",
     "ratings": [
-      { "name": "1 star", "count": 1234567 },
-      { "name": "2 star", "count": 500000 },
-      { "name": "3 star", "count": 1000000 },
-      { "name": "4 star", "count": 2500000 },
-      { "name": "5 star", "count": 6000000 }
+      { "name": "1 star", "count": "1.2M" },
+      { "name": "2 star", "count": "500K" },
+      { "name": "3 star", "count": "1M" },
+      { "name": "4 star", "count": "2.5M" },
+      { "name": "5 star", "count": "6M" }
     ]
   },
   {
@@ -256,17 +256,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png",
     "title": "LinkedIn: Jobs & Business News",
     "companyName": "LinkedIn",
-    "description": "Build your professional network, find jobs, and stay up-to-date.",
+    "description": "LinkedIn is the world's largest professional networking platform, designed to connect professionals and facilitate career growth. It allows users to create a detailed professional profile that acts as a digital resume, showcasing their skills, experience, and education. The platform's core function is to help users build and maintain a network of professional contacts, which can be leveraged for career opportunities and industry insights. Members can search for and apply to jobs, follow companies they are interested in, and stay informed with a personalized news feed featuring articles and posts from industry leaders and connections. LinkedIn also serves as a space for professional development through LinkedIn Learning courses and by participating in group discussions. For businesses, it's a vital tool for recruiting talent, marketing products and services, and establishing brand presence in a professional context, making it essential for career management.",
     "size": 92,
-    "reviews": 2567890,
+    "reviews": "2.6M",
     "ratingAvg": 4.5,
-    "downloads": 500000000,
+    "downloads": "500M+",
     "ratings": [
-      { "name": "1 star", "count": 167890 },
-      { "name": "2 star", "count": 80000 },
-      { "name": "3 star", "count": 120000 },
-      { "name": "4 star", "count": 500000 },
-      { "name": "5 star", "count": 1700000 }
+      { "name": "1 star", "count": "167.9K" },
+      { "name": "2 star", "count": "80K" },
+      { "name": "3 star", "count": "120K" },
+      { "name": "4 star", "count": "500K" },
+      { "name": "5 star", "count": "1.7M" }
     ]
   },
   {
@@ -274,17 +274,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png",
     "title": "Pinterest",
     "companyName": "Pinterest",
-    "description": "Discover recipes, home ideas, style inspiration and other ideas to try.",
+    "description": "Pinterest is a unique visual discovery engine where users can find ideas and inspiration for their interests and hobbies. It functions like a digital pinboard, allowing users to discover, save, and organize images and short videos, known as 'Pins,' onto various 'Boards.' People use Pinterest to plan everything from new recipes and home decor projects to style inspiration and travel destinations. Its visually-driven interface makes browsing for ideas intuitive and engaging. The platform's powerful search and recommendation tools help users discover new content based on their past activity and interests, creating a highly personalized experience. For creators and businesses, Pinterest is a valuable platform to showcase products and content to a highly engaged audience that is actively looking for things to plan, try, and buy. It's a positive corner of the internet dedicated to helping people create a life they love.",
     "size": 85,
-    "reviews": 11876543,
+    "reviews": "11.9M",
     "ratingAvg": 4.6,
-    "downloads": 500000000,
+    "downloads": "500M+",
     "ratings": [
-      { "name": "1 star", "count": 876543 },
-      { "name": "2 star", "count": 400000 },
-      { "name": "3 star", "count": 900000 },
-      { "name": "4 star", "count": 2700000 },
-      { "name": "5 star", "count": 7000000 }
+      { "name": "1 star", "count": "876.5K" },
+      { "name": "2 star", "count": "400K" },
+      { "name": "3 star", "count": "900K" },
+      { "name": "4 star", "count": "2.7M" },
+      { "name": "5 star", "count": "7M" }
     ]
   },
   {
@@ -292,17 +292,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/2048px-Reddit_Logo_Icon.svg.png",
     "title": "Reddit",
     "companyName": "Reddit Inc.",
-    "description": "Dive into anything with communities, conversations, and connections.",
+    "description": "Reddit is a massive network of communities, known as 'subreddits,' where people can dive into their interests, hobbies, and passions. Each subreddit is dedicated to a specific topic, ranging from broad subjects like news and gaming to incredibly niche interests. Users can submit content such as links, text posts, and images, which are then voted up or down by other members. This voting system determines the visibility of posts, ensuring that the most interesting and relevant content rises to the top. The platform is driven by conversation, with comment threads offering a space for in-depth discussions, humor, and support. With its user-driven content moderation and diverse communities, Reddit provides a unique space for authentic connection and information sharing. Whether you're seeking advice, sharing a meme, or discussing the latest scientific breakthrough, there's a community for almost everything on Reddit.",
     "size": 75,
-    "reviews": 5123456,
+    "reviews": "5.1M",
     "ratingAvg": 4.3,
-    "downloads": 100000000,
+    "downloads": "100M+",
     "ratings": [
-      { "name": "1 star", "count": 523456 },
-      { "name": "2 star", "count": 200000 },
-      { "name": "3 star", "count": 600000 },
-      { "name": "4 star", "count": 1300000 },
-      { "name": "5 star", "count": 2500000 }
+      { "name": "1 star", "count": "523.5K" },
+      { "name": "2 star", "count": "200K" },
+      { "name": "3 star", "count": "600K" },
+      { "name": "4 star", "count": "1.3M" },
+      { "name": "5 star", "count": "2.5M" }
     ]
   },
   {
@@ -310,17 +310,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Discord_logo.svg/2560px-Discord_logo.svg.png",
     "title": "Discord: Talk, Chat & Hang Out",
     "companyName": "Discord Inc.",
-    "description": "Your place to talk with communities and friends over voice, video, and text.",
+    "description": "Discord is a versatile communication platform designed for creating and managing communities. Originally popular among gamers, it has grown to host a wide variety of interest groups, from study clubs and art communities to fan groups. The platform is organized into 'servers,' which are invitation-only spaces where members can interact through dedicated text and voice channels. Its high-quality, low-latency voice chat makes it ideal for real-time conversation while gaming or collaborating on projects. Users can also engage in video calls, screen sharing, and direct messaging. Discord offers extensive customization options for server owners, including roles and permissions to manage members effectively. With its robust feature set and focus on creating a sense of belonging, Discord provides a powerful and organized way for friends and communities to talk, chat, and hang out online in a dedicated and private space.",
     "size": 160,
-    "reviews": 6543210,
+    "reviews": "6.5M",
     "ratingAvg": 4.5,
-    "downloads": 500000000,
+    "downloads": "500M+",
     "ratings": [
-      { "name": "1 star", "count": 443210 },
-      { "name": "2 star", "count": 200000 },
-      { "name": "3 star", "count": 500000 },
-      { "name": "4 star", "count": 1400000 },
-      { "name": "5 star", "count": 4000000 }
+      { "name": "1 star", "count": "443.2K" },
+      { "name": "2 star", "count": "200K" },
+      { "name": "3 star", "count": "500K" },
+      { "name": "4 star", "count": "1.4M" },
+      { "name": "5 star", "count": "4M" }
     ]
   },
   {
@@ -328,17 +328,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zoom_icon.svg/2048px-Zoom_icon.svg.png",
     "title": "Zoom - One Platform to Connect",
     "companyName": "Zoom Video Communications, Inc.",
-    "description": "Video conferencing, meetings, and collaboration for everyone.",
+    "description": "Zoom is a leading video communications platform that provides reliable and easy-to-use video conferencing, meetings, and collaboration services. It has become an essential tool for remote work, online education, and virtual social gatherings. The platform allows users to host or join high-definition video meetings with robust features like screen sharing, virtual backgrounds, and breakout rooms for smaller group discussions. It also supports chat functionalities for real-time messaging during and outside of meetings. Zoom is known for its stability and ability to support large numbers of participants, making it suitable for everything from one-on-one calls to large-scale webinars and online events. Its intuitive interface and seamless cross-platform compatibility on desktop and mobile devices have made it the go-to solution for millions of people and organizations worldwide looking to connect and collaborate effectively from anywhere.",
     "size": 115,
-    "reviews": 3456789,
+    "reviews": "3.5M",
     "ratingAvg": 4.2,
-    "downloads": 500000000,
+    "downloads": "500M+",
     "ratings": [
-      { "name": "1 star", "count": 456789 },
-      { "name": "2 star", "count": 200000 },
-      { "name": "3 star", "count": 400000 },
-      { "name": "4 star", "count": 800000 },
-      { "name": "5 star", "count": 1600000 }
+      { "name": "1 star", "count": "456.8K" },
+      { "name": "2 star", "count": "200K" },
+      { "name": "3 star", "count": "400K" },
+      { "name": "4 star", "count": "800K" },
+      { "name": "5 star", "count": "1.6M" }
     ]
   },
   {
@@ -346,17 +346,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/1200px-Google_Drive_logo.png",
     "title": "Google Drive",
     "companyName": "Google LLC",
-    "description": "Safely store and share your files, photos, and videos in the cloud.",
+    "description": "Google Drive is a powerful cloud storage and file synchronization service that allows you to safely store your files and access them from any device. It provides a secure central location for all your documents, photos, videos, and other files. A key strength of Google Drive is its deep integration with Google's productivity suite, including Google Docs, Sheets, and Slides. This allows for seamless real-time collaboration, where multiple users can work on the same document simultaneously. Sharing files and folders with others is simple and comes with granular permission controls. The platform offers a generous amount of free storage and affordable plans for more space. With powerful search capabilities that can even recognize content in images and scanned documents, finding your files is fast and easy. Google Drive is an essential tool for personal backup, file sharing, and professional collaboration.",
     "size": 55,
-    "reviews": 8765432,
+    "reviews": "8.8M",
     "ratingAvg": 4.4,
-    "downloads": 5000000000,
+    "downloads": "5B+",
     "ratings": [
-      { "name": "1 star", "count": 865432 },
-      { "name": "2 star", "count": 400000 },
-      { "name": "3 star", "count": 900000 },
-      { "name": "4 star", "count": 1600000 },
-      { "name": "5 star", "count": 5000000 }
+      { "name": "1 star", "count": "865.4K" },
+      { "name": "2 star", "count": "400K" },
+      { "name": "3 star", "count": "900K" },
+      { "name": "4 star", "count": "1.6M" },
+      { "name": "5 star", "count": "5M" }
     ]
   }
 ]

@@ -8,7 +8,7 @@ const App = ({ singleApp }) => {
   const { title, ratingAvg, id, downloads, image } = singleApp;
 
   return (
-    <Link to={`/installation/${id}`}>
+    <Link to={`/appDetails/${id}`}>
       <div className="bg-white rounded-lg p-5 shadow-2xl">
         <div>
           <img
