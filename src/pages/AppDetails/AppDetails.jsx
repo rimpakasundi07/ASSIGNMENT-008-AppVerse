@@ -1,6 +1,7 @@
 import { Download, Star, ThumbsUp } from "lucide-react";
 import React, { useState } from "react";
 import { useLoaderData, useParams } from "react-router";
+import { toast } from "react-toastify";
 
 const AppDetails = () => {
   const { id } = useParams();
@@ -8,7 +9,7 @@ const AppDetails = () => {
   const [installed, setInstalled] = useState(false);
   const handleInstall = () => {
     setInstalled(true);
-    alert("I am Adurini");
+    toast("App installed successful");
   };
 
   const singleApp = data.find((app) => app.id === parseInt(id));
@@ -22,6 +23,8 @@ const AppDetails = () => {
     description,
     size,
   } = singleApp;
+
+  const handleAddToInstall = (id) => {};
 
   return (
     <div className="bg-gray-100 py-10">
@@ -71,9 +74,9 @@ const AppDetails = () => {
           <button
             onClick={handleInstall}
             disabled={installed}
-            className="bg-green-400 cursor-pointer mt-5 py-2 px-4 rounded font-semibold text-white hover:text-green-400 hover:bg-white hover:border-2 hover:border-green-400"
+            className="bg-green-400 cursor-pointer mt-5 py-2 px-4 rounded font-semibold text-white hover:text-green-400 hover:bg-white hover:border-2 hover:border-green-400  "
           >
-            Install Now ({size} MB)
+            {installed ? "installed" : " Install Now ({size} MB)"}
           </button>
         </div>
       </div>
