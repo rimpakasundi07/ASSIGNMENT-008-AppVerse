@@ -56,9 +56,14 @@ const Navbar = () => {
         <ul className="menu menu-horizontal space-x-3">{links}</ul>
       </div>
       <div className="navbar-end">
-        <a className="btn mr-6 text-white font-semibold bg-gradient-to-bl from-[#9400D0] to-[#4B0082]">
+        <button
+          onClick={() =>
+            window.open("https://github.com/rimpakasundi07", "_blank")
+          }
+          className="btn mr-6 text-white font-semibold bg-gradient-to-bl from-[#9400D0] to-[#4B0082]"
+        >
           Contribute
-        </a>
+        </button>
       </div>
     </div>
   );
